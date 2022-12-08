@@ -1,0 +1,801 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<wfs:FeatureCollection xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml">
+	<gml:boundedBy>
+		<gml:Box srsName="EPSG:28992">
+			<gml:coordinates>94984.53973,437697.84347 95786,438313</gml:coordinates>
+		</gml:Box>
+	</gml:boundedBy>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528888">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95250,437963</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>(Brom-)fietswrak</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4507717">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95020,437965</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Bouw/puincontainer</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>ROZENBURGLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4519013">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95352,437914</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>restafvalcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4523734">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4521453">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4523214">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4530146">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95314,437940</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>winkelwagens</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>CHARLOTTE DE BOURBONLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4521187">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95765,438216</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VERBORGENLAANTJE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4481518">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95424.79187,438022.60143</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>prullenbak vol </Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>FAZANTENLAANTJE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4521515">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95336,437826</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Rioolaansluiting (verstopping)</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4523805">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95319,437802</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4426385">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95024.65125,437709.16217</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>restafvalcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>WATERLOOSTRAAT</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528545">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95066,437872</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528880">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>94988,437915</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528943">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>94988,437915</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4535397">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95249.64469,437968.25</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Grofvuil op straat</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4535300">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95175,437844</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Grofvuil op straat</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4530844">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95006,437816</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Bomen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>PRINSES JULIANALAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4527438">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95070,437886</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4522768">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95031,438051</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Verlichting doet het niet</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>ORANJELAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4513899">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95097,437870</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528402">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95300,438313</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>PLASZOOM</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4515929">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>zwerfvuil op straat</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4519305">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95193,437811</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>straatnaambord/verkeersbord</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4512774">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95011,437711</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>restafvalcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>OUDEDIJK</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4522601">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95249,437846</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Huiscontainer (gfe+t/gft) niet geleegd</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>CHARLOTTE DE BOURBONLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4535539">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>94990,438211</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>straatnaambord/verkeersbord</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KRALINGSE PLASLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4520817">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95138,437744</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4516665">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95786,437887</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>straatnaambord/verkeersbord</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KRALINGSEWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4516357">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95323,437818</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4518365">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528875">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95059,437894</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4526942">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95171,437839</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>koelkast/vriezer</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4524625">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95049,437729</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>restafvalcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>OUDEDIJK</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4501439">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95205.29675,437839.03975</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>lamp(en) uit</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>MARIA STUARTLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4501569">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95216,437910</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>lamp(en) uit</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4515443">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95136,437743</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Schone Stad algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4533398">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4530742">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95189,437831</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>straatnaambord/verkeersbord</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4521686">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95179.8429,437697.84347</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>AMALIA VAN SOLMSLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4530616">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95476,438008</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>RUITERLAANTJE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4528678">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95063,437891</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4504252">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95286,437735</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>cocon/1100 liter rolcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4508926">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95286,437735</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>cocon/1100 liter rolcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4527681">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4529642">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95330,437800</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>papiercontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4527030">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95028,437881</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>PRINSES JULIANALAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4514072">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95139,437739</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4527343">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95168.05143,437854.28598</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>koelkast/vriezer</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>VREDEHOFWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4534460">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95612.06876,437882.30179</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Dood dier in/aan water (geen rat/duif)</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KRALINGSEWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4534828">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95694,437937</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Dode vogels</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KRALINGSEWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4483250">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95020,437706</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>restafvalcontainer vol</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>OUDEDIJK</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4533340">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95063,437978</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Huiscontainer (rest) niet geleegd</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>PRINSES JULIANALAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4513450">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95028,437710</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>straatmeubilair algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>OUDEDIJK</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4527759">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>94984.53973,437983.15032</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Hinderlijk geparkeerde (brom-)fiets</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>ROZENBURGLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4529700">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95309.96846,437816.95951</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Klein Afval</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>LOUISE DE COLIGNYLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4534022">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95063,437978</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Huiscontainer (gfe+t/gft) niet geleegd</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>PRINSES JULIANALAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4526048">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95777,437920</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Huiscontainer (rest) niet geleegd</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KRALINGSEWEG</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4523900">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95000.32413,437978.32098</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>ROZENBURGLAAN</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4512994">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95135,437744</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Parkeeroverlast voertuig</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>KORTEKADE</Description>
+		</Item>
+	</gml:featureMember>
+	<gml:featureMember>
+		<Item xmlns="Gwr.Orior.Common" fid="4509918">
+			<Geometry>
+				<gml:Point srsName="EPSG:28992">
+					<gml:coordinates>95163.32596,437704.50858</gml:coordinates>
+				</gml:Point>
+			</Geometry>
+			<Code>MSB.AFGEH.PZR</Code>
+			<Title>Toezicht &amp; Handhaving algemeen</Title>
+			<SummaryText>Afgehandeld</SummaryText>
+			<Description>AMALIA VAN SOLMSLAAN</Description>
+		</Item>
+	</gml:featureMember>
+</wfs:FeatureCollection>
